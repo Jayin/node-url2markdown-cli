@@ -12,6 +12,6 @@ request('http://url2markdown.herokuapp.com/?url='+process.argv[2], function(erro
         console.log(error)
     }
     if (!error && response.statusCode == 200) {
-        console.log(body) // Show the HTML for the Google homepage.
+        console.log(body)
     }
 })
