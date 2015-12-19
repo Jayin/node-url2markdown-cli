@@ -1,0 +1,30 @@
+{
+  "name": "node-url2markdown-cli",
+  "version": "1.0.0",
+  "description": "Fetch a url and translate it to markdown in one command",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "url2markdown": "index.js"  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jayin/node-url2markdown-cli.git"
+  },
+  "keywords": [
+    "node",
+    "url2markdown",
+    "cli"
+  ],
+  "author": "Jayin Ton",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Jayin/node-url2markdown-cli/issues"
+  },
+  "homepage": "https://github.com/Jayin/node-url2markdown-cli#readme",
+  "dependencies": {
+    "request": "^2.67.0"
+  }
+}
