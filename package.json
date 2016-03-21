@@ -1,6 +1,6 @@
 {
   "name": "node-url2markdown-cli",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Fetch a url and translate it to markdown in one command",
   "main": "index.js",
   "scripts": {

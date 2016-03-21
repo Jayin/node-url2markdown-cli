@@ -7,7 +7,7 @@ if(process.argv.lenth < 3){
     return
 }
 
-request('http://url2markdown.herokuapp.com/?url='+process.argv[2], function(error, response, body) {
+request('http://markdownplease.com/?url='+process.argv[2], function(error, response, body) {
     if(error){
         console.log(error)
     }
