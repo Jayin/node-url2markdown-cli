@@ -1,4 +1,4 @@
-# node-url2markdown-cli
+# node-url2markdown-cli [![v](https://img.shields.io/npm/v/node-url2markdown-cli.svg)](https://www.npmjs.com/package/node-url2markdown-cli)
 Convert website to markdown from URL. Powered by [kennethreitz/url2markdown](https://github.com/kennethreitz/url2markdown)
 
 YES! It's a node.js version of [url2markdown-cli](https://github.com/alice1017/url2markdown-cli/commits/master)
